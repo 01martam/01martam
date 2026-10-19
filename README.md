@@ -1,6 +1,6 @@
 ## Hola👋
 Actualment treballant en 4enratlla amb l'algoritme minimax i creacio d'arbres per tal de fer el joc contra la maquina
-[4enratllla](scr=https://github.com/01martam/4-en-ratlla)
+[4enratllla](https://github.com/01martam/4-en-ratlla)
 
 <!--
 **01martam/01martam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
